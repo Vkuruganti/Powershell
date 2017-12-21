@@ -1,3 +1,6 @@
+
+# sript to coopy a powershell from shared folder to remote nodes and execute them
+
 #$filePath =  "C:\Users\Desktop\t1.txt"   
 $machines = Get-Content C:\Users\Desktop\t1.txt
 
