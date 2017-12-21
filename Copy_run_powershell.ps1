@@ -1,3 +1,5 @@
+
+#
 #$filePath =  "C:\Users\Desktop\t1.txt"   
 $machines = Get-Content C:\Users\Desktop\t1.txt
 
